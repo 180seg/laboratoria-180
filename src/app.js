@@ -35,6 +35,7 @@ app.post(
 );
 
 // Busca um segurado por ID
+// Esta é a rota do nosso desafio!
 app.get(
   '/policyholders/:policyholderId',
   // Schema para validação do parâmetro :policyholderId
