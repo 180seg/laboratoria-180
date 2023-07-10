@@ -1,0 +1,15 @@
+{
+  "name": "laboratoria-180",
+  "version": "1.0.0",
+  "description": "Desafio Laboratoria 180 Seguros",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "180 Seguross",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1"
+  }
+}
