@@ -40,9 +40,21 @@ Resumindo, o que você precisa fazer:
 
 ## Rodando a API da 180 pela primeira vez
 
-Para rodar a API da 180 em seu computador, você deve ter o [NodeJS](https://nodejs.org/) e o [NPM](https://www.npmjs.com/) instalados. Caso não tenha, consulte o seu material da Laboratoria para mais instruções.
+Para rodar a API da 180 em seu computador, você deve ter o [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/) e o [NPM](https://www.npmjs.com/) instalados. Caso não tenha, consulte o seu material da Laboratória para mais instruções.
 
-Na pasta raiz do projeto, primeiro, vamos instalar as dependências:
+Primeiro, você deve clonar o repositorio na sua máquina:
+
+```bash
+git clone https://github.com/180seg/laboratoria-180.git
+```
+
+Na pasta raiz do projeto, vamos instalar as dependências. Primeiro acesse a pasta com o comando:
+
+```bash
+cd laboratoria-180
+```
+
+e depois rode o comando para instalar as dependências:
 
 ```bash
 npm install
