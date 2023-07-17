@@ -75,7 +75,7 @@ Agora, você pode começar a criar alguns segurados que serão utilizados no des
 ```json
 {
   "id": 42,
-  "nome": "Joana Ferreira"
+  "name": "Joana Ferreira"
 }
 ```
 
